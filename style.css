@@ -1,0 +1,50 @@
+body {
+    font-family: Arial;
+    margin: 40px;
+    background-color: #f4f4f4;
+}
+
+h2 {
+    text-align: center;
+}
+
+.add-btn {
+    float: right;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 8px 12px;
+    border: none;
+    cursor: pointer;
+    color: white;
+}
+
+.add-btn{
+    background-color: rgb(0, 128, 19);
+}
+
+.edit-btn {
+    background-color: blue;
+}
+
+.delete-btn {
+    background-color: red;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+th {
+    background-color: #333;
+    color: white;
+}
